@@ -1,5 +1,5 @@
 # NY-housing-analysis
-New York Housing Market Analysis using Python and Seaborn
+New York Housing Market Analysis
 # 🏠 New York Housing Market Analysis
 
 This project explores house listing data from New York to uncover valuable insights for brokers, buyers, investors, and analysts. It uses Python, Seaborn, and Matplotlib to visualize pricing trends, analyze broker performance, and evaluate the impact of property features on house values.
